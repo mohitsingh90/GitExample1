@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("This is my first git example")
+        print("This is my second repository")
+        
     }
 
     override func didReceiveMemoryWarning() {
